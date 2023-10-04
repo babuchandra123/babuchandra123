@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @babuchandra123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- babumohanji
-
-<!---
-babuchandra123/babuchandra123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+helloworld
+this is simple repository creates to test version control
+name:chandrababu
+project:version control test
+college:anmk
+course:mca
